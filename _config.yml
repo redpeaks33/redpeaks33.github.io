@@ -10,10 +10,15 @@ exclude:
 remote_theme: marella/jekyll-theme-documentation
 
 permalink: pretty
+
 nav:
-  - Getting Started:
+  - Getting Started :
     - Introduction: ''
   - Demos:
     - Markdown: demos/markdown
     - Another Page: demos/another-page
     - Table of Contents: demos/toc
+  - Investment:
+    - account: doc/investment/account
+    - conclusion: doc/investment/conclusion
+    - fire: doc/investment/fire
