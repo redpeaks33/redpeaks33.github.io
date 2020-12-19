@@ -18,7 +18,7 @@ nav:
     - Markdown: demos/markdown
     - Another Page: demos/another-page
     - Table of Contents: demos/toc
-  - Investment:
-    - account: doc/investment/account
-    - conclusion: doc/investment/conclusion
-    - fire: doc/investment/fire
+  - 財産:
+    - 決算: doc/investment/account
+    - 資産運用: doc/investment/conclusion
+    - 早期退職: doc/investment/fire
