@@ -14,11 +14,7 @@ permalink: pretty
 nav:
   - Getting Started :
     - Introduction: ''
-  - Demos:
-    - Markdown: demos/markdown
-    - Another Page: demos/another-page
-    - Table of Contents: demos/toc
-  - 財産:
-    - 決算: doc/investment/account
+  - 資産運用:
     - 資産運用: doc/investment/conclusion
+    - 決算: doc/investment/account
     - 早期退職: doc/investment/fire
