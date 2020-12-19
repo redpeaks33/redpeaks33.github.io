@@ -12,9 +12,7 @@ remote_theme: marella/jekyll-theme-documentation
 permalink: pretty
 
 nav:
-  - Getting Started :
-    - Introduction: ''
-  - 資産運用:
-    - 資産運用: doc/investment/conclusion
+  - 資産:
+    - 資産運用の基本: doc/investment/conclusion
+    - 経済的自由の基本: doc/investment/fire
     - 決算: doc/investment/account
-    - 早期退職: doc/investment/fire
